@@ -55,3 +55,9 @@ to adapt to and overcome new challenges. Please consider me for any roles for wh
 - LABRIE AUTOMATED SYSTEMS CODING AND REPAIR COURSE
 - DIVER CERTIFICATION BOARD OF CANADA (D.C.B.C.) QUALIFIED AS AN UNRESTRICTED SURFACE SUPPLIED COMMERCIAL DIVER
 - NON-DESTRUCTIVE TESTING (N.D.T.) LEVEL I & II U/W V.T., U.T. & M.P.I.
+
+## NOTES
+A PDF version of this resume can be found [here](https://github.com/BradMyrick/resume/blob/main/resume.pdf) created with 
+```bash
+pandoc -s -o resume.pdf README.md --pdf-engine=xelatex -V mainfont="DejaVu Sans"
+```
