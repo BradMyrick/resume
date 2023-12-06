@@ -1,6 +1,6 @@
 # BRAD MYRICK
-- 📞 (850) 348-1151
 - 📧 brad.myrick@proton.me
+- [Portfolio](https://kodr.pro)
 - [Github](https://github.com/BradMyrick/)
 - [Twitter](https://x.com/kodr_eth)
 
