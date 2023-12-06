@@ -1,8 +1,8 @@
 # BRAD MYRICK
 - 📧 brad.myrick@proton.me
-- [Portfolio](https://kodr.pro)
-- [Github](https://github.com/BradMyrick/)
-- [Twitter](https://x.com/kodr_eth)
+- 🌐 [Portfolio](https://kodr.pro)
+- 🐙 [Github](https://github.com/BradMyrick/)
+- 🐦 [Twitter](https://x.com/kodr_eth)
 
 US Army Veteran and Web3 focused Software Engineer open to contract or full-time roles within organizations that 
 are pushing the bounds of technology forward. I bring unique life and work experiences as well as a proven ability 
