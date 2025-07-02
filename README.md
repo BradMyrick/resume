@@ -26,8 +26,8 @@ US Army Veteran and Senior Software Engineer specializing in blockchain security
 - Decompiled and analyzed smart contract bytecode, architecting data pipelines to push structured information into GraphDBs.
 - Collaborated cross-functionally, mentoring junior engineers and driving adoption of best practices in code quality, security, and scalability.
 - Managed deployments and infrastructure on Google Cloud, Kubernetes, kserve, and OVH; integrated with QuickNode for blockchain data access.
-- Contributed to capability-based security systems, focusing on authentication, authorization, and function-level security[1].
-- Championed code review and CI/CD best practices using GitHub and Git CLI[2].
+- Contributed to capability-based security systems, focusing on authentication, authorization, and function-level security.
+- Championed code review and CI/CD best practices using GitHub and Git CLI.
 
 **2019 – 2022**  
 **SOFTWARE ENGINEER, TACVUE.IO / KODR.PRO**
@@ -52,14 +52,8 @@ US Army Veteran and Senior Software Engineer specializing in blockchain security
 - Python / Solidity / Go (Golang)
 - Cloud: Google Cloud, AWS, OVH
 - Kubernetes, kserve
-- Version Control: Git / GitHub / CLI[2]
+- Version Control: Git / GitHub / CLI
 - Android Development / Android Studio
 - Labrie Automated Systems Coding and Repair Course
 - Diver Certification Board of Canada (D.C.B.C.) – Unrestricted Surface Supplied Commercial Diver
 - Non-Destructive Testing (N.D.T.) Level I & II U/W V.T., U.T. & M.P.I.
-
-## NOTES
-A PDF version of this resume can be found [here](https://github.com/BradMyrick/resume/blob/main/resume.pdf), created with:
-```bash
-pandoc -s -o resume.pdf README.md --pdf-engine=xelatex -V mainfont="DejaVu Sans"
-```
