@@ -70,8 +70,9 @@ _2005 – 2012_
 
 ## CERTIFICATIONS & SKILLS
 - eJPT Ethical Hacking, D.C.B.C. Unrestricted Diver, NDT Level I & II, Labrie Automated Systems
+- Boot.dev Go Lang Backend Course
 - Programming: Rust, capnp, Python, TypeScript
-- Cloud & DevOps: GCP, AWS, OVH, Kubernetes, kserve, CI/CD
+- Cloud & DevOps: GCP, OVH, Kubernetes, kserve, CI/CD
 - Security: Capability-based, smart contract auditing, bytecode analysis
 - Other: Data Visualization (scikit-learn), Android Development
 
