@@ -1,7 +1,7 @@
 # BRAD MYRICK
 
 📧 [brad.myrick@pm.me](mailto:brad.myrick@pm.me)  
-🌐 Portfolio: [kodr.pro](https://kodr.pro) | 🐙 GitHub: [BradMyrick](https://github.com/BradMyrick) | 🐦 Twitter: [@kodr_eth](https://x.com/kodr_pro)
+🌐 Portfolio: [kodr.pro](https://kodr.pro) | 🐙 GitHub: [BradMyrick](https://github.com/BradMyrick) | 𝕏: [@kodr_pro](https://x.com/kodr_pro)
 
 ---
 
