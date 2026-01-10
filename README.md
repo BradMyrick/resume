@@ -1,79 +1,79 @@
 # BRAD MYRICK
 
-📧 brad.myrick@pm.me  
-🌐 Portfolio: kodr.pro | 🐙 GitHub: BradMyrick | 🐦 Twitter: kodr_eth
+📧 [brad.myrick@pm.me](mailto:brad.myrick@pm.me)  
+🌐 Portfolio: [kodr.pro](https://kodr.pro) | 🐙 GitHub: [BradMyrick](https://github.com/BradMyrick) | 🐦 Twitter: [@kodr_eth](https://x.com/kodr_pro)
 
-***
+---
 
 ## PROFESSIONAL SUMMARY
-US Army Veteran and Senior Software Engineering Manager specializing in blockchain security, distributed backend systems, and Web3 technologies. Proven leader of high-performance engineering teams and technical delivery at scale. Adept at bridging strategic goals with technical execution in fast-paced environments. Seeking senior engineering leadership roles advancing frontier technology.
+US Army Veteran and Senior Software Engineering Manager with deep expertise in blockchain security, distributed systems, and decentralized infrastructure. Proven track record of building and leading elite engineering teams, delivering robust, scalable platforms, and translating strategic vision into production-grade technology. Passionate about advancing frontier technologies through rigorous engineering and strong leadership.
 
-***
+---
 
 ## EDUCATION
 
-**B.Sc., Computer Science – Full Sail University**  
+**B.Sc. Computer Science — Full Sail University**  
 - Salutatorian, Advanced Achievement Award Recipient  
 
-**Commercial Diver Certification – CDA Technical Institute**  
-- Diver Certification Board of Canada (D.C.B.C.) licensed  
-- NDT Level 2 certified  
-- Scuba Dive Master (extracurricular)  
+**Commercial Diver Certification — CDA Technical Institute**  
+- DCBC Commercial Diver (Unrestricted)  
+- NDT Level II Certified  
+- Scuba Dive Master (extracurricular)
 
-***
+---
 
 ## PROFESSIONAL EXPERIENCE
 
-**Senior Software Engineering Manager — Deep Green X (deepgreenx.com)**  
-_April 1, 2025 – Present_  
-- Lead engineering for the Oko blockchain project, overseeing architecture implementation, security, and performance of the network.
-- Drive technical strategy across Rust, capnp, and containerized workloads, enforcing modular, secure, and performant system designs.
-- Manage distributed engineering team, set coding standards, review architecture proposals, and mentor senior/staff engineers.
-- Institute DevOps/SRE practices to enhance CI/CD pipelines, observability, and deployment reliability on Kubernetes infrastructure.
-- Partner with leadership to align roadmap priorities and coordinate delivery cycles from research to production.
-- Work directly for the Chief Architech to turn abstract ideas into concrete coded solutions.
+### Senior Software Engineering Manager — Deep Green X  
+_Apr 2025 – Present | deepgreenx.com_  
+- Lead engineering for the **Oko blockchain**, defining architecture, security, and performance optimization for next-generation distributed consensus.  
+- Drive technical strategy across **Rust**, **Cap'n Proto**, and containerized microservices with a focus on modular, secure, auditable system design.  
+- Manage a distributed team of engineers; establish coding standards, conduct architecture reviews, and mentor senior developers.  
+- Implement DevOps and SRE best practices for **CI/CD**, observability, and reliable deployments using Kubernetes and modern cloud pipelines.  
+- Collaborate directly with executive leadership to turn conceptual blockchain innovations into deployable, production-ready systems.  
 
-***
+---
 
-**Senior Software Engineer — TruGard.AI (formerly Trugard.IO)**  
-_2022 – April 1, 2025_  
-- Promoted from Software Engineer to Senior Software Engineer in blockchain security.
-- Designed and implemented ETL backend systems to parse EVM blockchains, extract and normalize contract/wallet/transaction data.
-- Reverse-engineered Solidity smart contract bytecode, producing structured insights for Graph databases.
-- Managed cloud deployments on GCP, Kubernetes, and KServe; integrated QuickNode blockchain data providers.
-- Led security-focused feature development for capability-based authentication/authorization.
-- Mentored junior engineers; championed best practices for code quality, testing, and security.
+### Senior Software Engineer — TruGard.AI (formerly TruGard.IO)  
+_2022 – Apr 2025_  
+- Promoted to Senior Engineer for excellence in blockchain security R&D.  
+- Designed and implemented scalable **ETL pipelines** for parsing EVM data, extracting and normalizing contract and wallet analytics.  
+- Reverse-engineered Solidity bytecode to generate interpretable security insights, enabling advanced contract classification in **graph databases**.  
+- Led Kubernetes-based cloud deployments on **GCP** and **KServe**, integrating blockchain data providers such as QuickNode.  
+- Architected capability-based authentication and authorization systems to meet advanced security standards.  
+- Mentored junior engineers and drove adoption of secure coding practices and automated testing frameworks.  
 
-***
+---
 
-**Software Engineer — Tacvue.io / Kodr.pro**  
+### Software Engineer — Tacvue.io / Kodr.pro  
 _2019 – 2022_  
-- Built Web3 dApps and Solidity smart contracts for on-chain NFT trait assembly, whitelisting, and minting.
-- Developed scalable API-backed backends with AWS and Moralis DB.
-- Drove end-to-end product cycle from ideation through deployment.
+- Built full-stack **Web3 dApps** and smart contracts supporting NFT trait assembly, minting, and on-chain data validation.  
+- Developed Go and TypeScript backends with **AWS** and **Moralis DB**, optimizing for low-latency blockchain interactions.  
+- Drove end-to-end product delivery from architecture to deployment for decentralized application networks.  
 
-***
+---
 
-**Diver Foreman — Underwater Construction Corp**  
+### Diver Foreman — Underwater Construction Corporation  
 _2014 – 2019_  
-- Led underwater NDT inspection/repair teams at US nuclear facilities, upholding safety and compliance.
-- Trained and supervised divers for high-risk job sites as Perry Nuclear Deep Dive Team member.
+- Led underwater inspection and repair operations at U.S. nuclear facilities under **NRC safety compliance**.  
+- Supervised and trained dive teams on high-risk projects, including major containment repair and NDT certification programs.  
 
-***
+---
 
-**US Army Sergeant / DoD Contractor — M109A6 Technician**  
+### U.S. Army Sergeant / DoD Contractor — M109A6 Systems Technician  
 _2005 – 2012_  
-- Convoy Protection Team lead, Iraq (2008–2009)
-- Foreign Military Technical Trainer (DoD Iraq, 2011–2012)
+- Led combat convoy security operations in Iraq (2008–2009).  
+- Served as Foreign Military Technical Trainer with DoD Iraq (2011–2012), instructing field artillery maintenance for international partners.  
 
-***
+---
 
-## CERTIFICATIONS & SKILLS
-- eJPT Ethical Hacking, D.C.B.C. Unrestricted Diver, NDT Level I & II, Labrie Automated Systems
-- Boot.dev Go Lang Backend Course
-- Programming: Rust, capnp, Python, TypeScript
-- Cloud & DevOps: GCP, OVH, Kubernetes, kserve, CI/CD
-- Security: Capability-based, smart contract auditing, bytecode analysis
-- Other: Data Visualization (scikit-learn), Android Development
+## CERTIFICATIONS & TECHNICAL SKILLS
 
-***
+**Certifications**  
+- eJPT (Ethical Hacking), DCBC Diver (Unrestricted), NDT Level I & II, Boot.dev Backend (Go)  
+
+**Technical Skills**  
+- **Languages:** Rust, Go, Cap'n Proto, Python, TypeScript  
+- **Cloud & DevOps:** GCP, OVH, Kubernetes, KServe, CI/CD, Observability  
+- **Security:** Capability-based design, bytecode disassembly, smart contract auditing  
+- **Data & Tools:** scikit-learn, Prometheus/Grafana dashboards, Android development
