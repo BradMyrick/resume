@@ -8,12 +8,12 @@
 
 ## TECHNICAL PROFILE
 
-**Systems Programming:** Rust, capnp, Go, Python, TypeScript, Solidity
-**Distributed Systems:** Cap'n Proto RPC, gRPC,Go microservices
-**Blockchain Infrastructure:** EVM bytecode analysis, smart contract creation, validator operations
-**Cloud & DevOps:** GCP, OVH, Kubernetes, KServe, Docker, CI/CD pipelines
-**Security:** Capability-based authentication, smart contract auditing, bytecode reverse engineering
-**Development Tools:** Neovim/LSP, Git, Linux systems administration
+**Systems Programming:** Rust, capnp, Go, Python, TypeScript, Solidity <br>
+**Distributed Systems:** Cap'n Proto RPC, gRPC,Go microservices  <br>
+**Blockchain Infrastructure:** EVM bytecode analysis, smart contract creation, validator operations  <br>
+**Cloud & DevOps:** GCP, OVH, Kubernetes, KServe, Docker, CI/CD pipelines  <br>
+**Security:** Capability-based authentication, smart contract auditing, bytecode reverse engineering  <br>
+**Development Tools:** Neovim/LSP, Git, Linux systems administration  <br>
 
 ---
 
