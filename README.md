@@ -1,14 +1,14 @@
 # BRADLEY W. MYRICK
 **Senior Software Engineer - Distributed Systems & Blockchain Infrastructure**
 
-📧 brad.myrick@pm.me |
+📧 [brad.myrick@pm.me](mailto:brad.myrick@pm.me) |
 🌐 [kodr.pro](https://kodr.pro) | 🐙 GitHub: [BradMyrick](https://github.com/BradMyrick) | 🐦 Twitter: [kodr_pro](https://x.com/kodr_pro)
 
 ---
 
 ## TECHNICAL PROFILE
 
-**Systems Programming:** Rust, capnp, Go
+**Systems Programming:** Rust, capnp, Go, Python, TypeScript, Solidity
 **Distributed Systems:** Cap'n Proto RPC, gRPC,Go microservices
 **Blockchain Infrastructure:** EVM bytecode analysis, smart contract creation, validator operations
 **Cloud & DevOps:** GCP, OVH, Kubernetes, KServe, Docker, CI/CD pipelines
